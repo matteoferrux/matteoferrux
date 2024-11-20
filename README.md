@@ -10,7 +10,7 @@
   <a href="https://mobilille.fr">MobiLille.fr</a>
 </p>
 
-<h2 align="left"> ✅ Softwares and languages </h2>
+<h2 align="left"> ✅ Softwares, OS and languages </h2>
   <p align = "center">
        <a href="https://github.com/matteoferrux/">
           <img src="https://skillicons.dev/icons?i=apple,au,bash,bootstrap,cloudflare,css,discord,docker,firebase,git,github,gradle,grafana,html,ai,js,linux,mysql,nginx,nodejs,npm,php,postgres,postman,pr,py,react,sqlite,vscode,windows,wordpress&theme=dark&perline=13"alt="My Skills"/> 
