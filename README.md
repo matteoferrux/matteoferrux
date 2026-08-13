@@ -2,7 +2,7 @@
 <h3 align="center">CEO of @MobiLille. Committed to public transport and public data.</h3>
 
 <p align="center">
-  <a href="https://bento.me/matteoferrux">Bento.me</a> |
+  <a href="https://matteoferrux.fr">matteoferrux.fr</a> |
   <a href="https://x.com/matteoepik">𝕏</a> |
   <a href="https//linkedin.com/in/mattéo-ferrux">LinkedIn</a> |
   <a href="https://instagram.com/matteoepik">Instagram</a> |
